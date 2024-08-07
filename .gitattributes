@@ -1,0 +1,14 @@
+# Normaliza los finales de línea para que sean LF en el repositorio y CRLF en Windows
+* text=auto
+
+# Asegura que ciertos tipos de archivos siempre usen LF
+*.sh text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+
+# Asegura que los archivos de configuración usen LF
+*.cjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
