@@ -1,6 +1,6 @@
 # Calculadora de Paneles APP
 
-Este repositorio despliega el frontend desde el backend
+Este repositorio maneeja la logica para el calculo desde el front
 
 ## Development pasos
 
