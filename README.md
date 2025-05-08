@@ -1,6 +1,6 @@
 # Calculadora de Paneles APP
 
-Este repositorio maneeja la logica para el calculo desde el front
+Este repositorio maneja la logica para el calculo desde el front para poder desplegar en github
 
 ## Development pasos
 
